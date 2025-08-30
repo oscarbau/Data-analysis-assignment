@@ -1,0 +1,19 @@
+Variable,Description
+land_total_acres,Total size of land owned in 2024 (acres)
+land_cultivated_acres,Acres of owned land cultivated for crop production in 2024
+maize_harvest_qty,Total quantity of maize harvested in 2024
+maize_unit,Unit of measurement used for total maize harvested in 2024
+livestock_owned,Household owned livestock in 2024 (Yes/No)
+livestock_types,Types of livestock owned in 2024
+organic_fertilizer_types,Types of organic fertilizer applied in 2024
+climate_info_received,Household received climate information/agro-advisory services in 2024 (Yes/No)
+hh_head_age,Age of the household head in 2024
+hh_head_gender,Gender of the household head
+hh_size_total,Total household members (adults + children) in 2024
+hh_size_adults,Number of adult household members (18 years and above) in 2024
+hh_head_partner,Household head has a partner (Yes/No)
+hh_head_education,Highest education level attained by household head as of 2024
+HHID,Unique household identifier
+OrgFert_Name_2024,Name of the organic fertilizer applied by the household in 2024
+OrgFert_Quantity_2024,Quantity of the specified organic fertilizer applied by the household in 2024.
+OrgFert_Unit_2024,Unit of measurement used for the quantity of the specified organic fertilizer applied in 2024.
