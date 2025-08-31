@@ -1,0 +1,33 @@
+name: ispark
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - python=3.10
+  - planetary-computer
+  - matplotlib
+  - requests
+  - rasterio
+  - rioxarray
+  - scikit-learn
+  - opencv
+  - folium
+  - geopandas
+  - tqdm
+  - pystac-client
+  - pillow
+  - shapely
+  - h5netcdf
+  - xarray
+  - dask
+  - xarray-spatial
+  - netcdf4
+  - stackstac
+  - sentinelhub
+  - seaborn
+  - ydata-profiling
+  - ipywidgets
+  - geemap
+  - localtileserver
+prefix: /opt/miniconda3/envs/damage

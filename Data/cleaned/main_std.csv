@@ -63,7 +63,7 @@ hhid,land_total_acres,land_cultivated_acres,maize_harvest_qty,maize_unit,livesto
 139,0.5,0.5,10.0,90 Kg bag,Yes,Dairy cows Poultry,No,Yes,Male,3,Certificate,0.030672797,34.84415757,90 kg bag,900.0,Yes,1.8
 136,6.5,2.0,1.5,90 Kg bag,Yes,Poultry,No,Yes,Male,4,Primary,-0.26604624,34.89891344,90 kg bag,135.0,Yes,0.07
 134,1.0,1.0,2.5,90 Kg bag,Yes,Dairy cows Poultry,Yes,Yes,Male,8,Certificate,-0.128255618,34.91721229,90 kg bag,225.0,Yes,0.22
-131,0.25,0.17324110400469092,7.0,90 Kg bag,Yes,Goats Poultry,Yes,Yes,Male,5,Diploma,-0.039006495,34.60657595,90 kg bag,630.0,Yes,3.64
+131,0.25,0.17324110400469092,7.0,90 Kg bag,Yes,Goats Poultry,Yes,Yes,Male,5,Diploma,-0.039006495,34.60657595,90 kg bag,630.0,Yes,0.36
 127,1.75,1.75,8.0,90 Kg bag,Yes,Beef cattle,Yes,NO,Male,7,Secondary,-0.290834158,34.81675776,90 kg bag,720.0,No,0.41
 126,4.0,3.0,24.0,90 Kg bag,Yes,Other (specify),Yes,Yes,Male,8,Secondary,-0.016886468,34.53861378,90 kg bag,2160.0,Yes,0.72
 124,0.5,0.5,1.0,90 Kg bag,Yes,Dairy cows Goats,No,Yes,Male,14,Undergraduate degree,-0.054171848,34.63706783,90 kg bag,90.0,Yes,0.18

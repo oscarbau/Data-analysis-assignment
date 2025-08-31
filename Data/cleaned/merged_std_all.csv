@@ -1,101 +1,101 @@
-hhid,land_total_acres,land_cultivated_acres,maize_harvest_qty,maize_unit,livestock_owned,livestock_types,usedom,climate_info_received,hh_head_gender,hh_size_total,hh_head_education,latitude,longitude,orgfert_quantity_2024,maize_harvest_qty_kg,climate_info_received_std,maize_yield_ton_acre,orgfert_qty_2024_kg_total,orgfert_names_2024,orgfert_qty_2024_kg,climate_info_received_num,livestock_owned_bin,hh_head_education_class,orgfert_qty_2024_kg_total_std
-409,2.5,0.5,1.5,90 Kg bag,Yes,Dairy cows Goats Poultry Sheep,Yes,Yes,Male,10,Primary,-0.152069274,34.957133,90 kg bag,135.0,Yes,0.27,1250.0,,,1,1,0,1250.0
-398,2.0,1.0,15.0,90 Kg bag,Yes,Dairy cows Goats,Yes,Yes,Male,8,Secondary,-0.065601887,34.60318356,90 kg bag,1350.0,Yes,1.35,600.0,Farmyard manure,600.0,1,1,1,600.0
-397,1.5,1.25,2.0,90 Kg bag,Yes,Poultry,No,Yes,Male,3,Diploma,-0.262379727,34.8561359,90 kg bag,180.0,Yes,0.14,600.0,Farmyard manure,600.0,1,1,3,600.0
-395,3.0,2.0,28.0,90 Kg bag,Yes,Dairy cows Goats Sheep,Yes,Yes,Male,5,Certificate,0.09371704,34.5776137,90 kg bag,2520.0,Yes,1.26,800.0,Farmyard manure,800.0,1,1,2,800.0
-389,0.25,0.25,5.0,90 Kg bag,Yes,Calves Dairy cows,No,Yes,Male,5,Certificate,0.072589516,34.68574717,90 kg bag,450.0,Yes,1.8,1250.0,,,1,1,2,1250.0
-382,1.5,1.5,3.0,90 Kg bag,Yes,Dairy cows Goats,No,No,Male,4,Secondary,0.142677371,34.82597436,90 kg bag,270.0,No,0.18,1250.0,,,0,1,1,1250.0
-370,1.0,0.5,2.0,90 Kg bag,Yes,Dairy cows Trained oxen for ploughing,Yes,Yes,Male,6,Postgraduate degree,-0.358320361,34.70890244,90 kg bag,180.0,Yes,0.36,2200.0,"Farmyard manure, Farmyard manure","1000.0, 1200.0",1,1,5,2200.0
-369,1.0,0.5,5.0,90 Kg bag,Yes,Poultry,Yes,Yes,Male,6,Secondary,0.062223944,34.62262696,90 kg bag,450.0,Yes,0.9,1600.0,Compost,1600.0,1,1,1,1600.0
-361,10.0,8.0,7.0,90 Kg bag,Yes,Dairy cows,No,Yes,Male,7,Certificate,-0.267779635,34.69932775,90 kg bag,630.0,Yes,0.08,1250.0,,,1,1,2,1250.0
-358,7.0,5.5,23.0,90 Kg bag,Yes,Dairy cows Goats,Yes,Yes,Male,9,Certificate,-0.203124244,34.78200404,90 kg bag,2070.0,Yes,0.38,1250.0,,,1,1,2,1250.0
-354,1.5,1.0394466240281457,7.0,90 Kg bag,Yes,Dairy cows Poultry,Yes,Yes,Male,7,Primary,0.149884354,34.68435028,90 kg bag,630.0,Yes,0.61,2200.0,"Compost, Compost","600.0, 1600.0",1,1,0,2200.0
-342,6.0,5.0,12.0,90 Kg bag,Yes,Goats Poultry,Yes,Yes,Male,8,Certificate,-0.245462757,34.79692649,90 kg bag,1080.0,Yes,0.22,600.0,Farmyard manure,600.0,1,1,2,600.0
-337,2.0,1.0,3.0,90 Kg bag,Yes,Poultry,Yes,Yes,Female,2,Secondary,-0.132296402,34.6945271,90 kg bag,270.0,Yes,0.27,6080.0,"Farmyard manure, Farmyard manure","2400.0, 3680.0",1,1,1,6080.0
-334,11.5,9.5,21.0,90 Kg bag,Yes,Goats,No,Yes,Male,7,Primary,-0.340004134,34.63855611,90 kg bag,1890.0,Yes,0.2,1250.0,,,1,1,0,1250.0
-332,0.5,0.3464822080093818,20.0,Gorogoro (2 kg tin),Yes,Poultry,Yes,Yes,Male,4,Undergraduate degree,0.080895103,34.89202085,gorogoro (2 kg tin),40.0,Yes,0.12,1250.0,,,1,1,4,1250.0
-326,0.5,0.4,2.0,90 Kg bag,Yes,Goats Sheep,No,Yes,Male,7,Primary,-0.020179315,34.69433233,90 kg bag,180.0,Yes,0.45,4800.0,Poultry manure,4800.0,1,1,0,4800.0
-319,1.5,1.0,5.5,90 Kg bag,Yes,Dairy cows,Yes,Yes,Female,6,Secondary,-0.097967967,34.95384857,90 kg bag,495.0,Yes,0.5,1200.0,Compost,1200.0,1,1,1,1200.0
-318,1.0,0.5,45.0,Kilograms,Yes,Poultry,No,Yes,Male,7,Secondary,0.152898928,34.822934,kilograms,45.0,Yes,0.09,1250.0,,,1,1,1,1250.0
-315,3.0,3.0,8.0,90 Kg bag,Yes,Beef cattle Poultry,Yes,No,Female,6,Secondary,-0.200536432,34.93616172,90 kg bag,720.0,No,0.24,50.0,Farmyard manure,50.0,0,1,1,50.0
-304,7.0,3.0,20.0,90 Kg bag,Yes,Dairy cows Goats Sheep,Yes,Yes,Male,8,Secondary,0.062643322,34.70584354,90 kg bag,1800.0,Yes,0.6,800.0,Farmyard manure,800.0,1,1,1,800.0
-303,1.0,0.5,7.0,90 Kg bag,No,Not_Applicable,No,Yes,Female,3,Certificate,0.064952645,34.61542226,90 kg bag,630.0,Yes,1.26,1600.0,Farmyard manure,1600.0,1,0,2,1600.0
-297,0.5,0.5,2.0,90 Kg bag,Yes,Poultry,No,No,Male,5,Secondary,-0.156871711,34.61150547,90 kg bag,180.0,No,0.36,960.0,Farmyard manure,960.0,0,1,1,960.0
-294,0.25,0.1732411040046909,2.5,90 Kg bag,Yes,Dairy cows,Yes,Yes,Male,7,Secondary,-0.198475046,34.63868439,90 kg bag,225.0,Yes,1.3,1250.0,,,1,1,1,1250.0
-280,1.5,1.5,7.0,90 Kg bag,Yes,Beef cattle Sheep,Yes,No,Male,15,Secondary,0.024195513,34.74962843,90 kg bag,630.0,No,0.42,1250.0,,,0,1,1,1250.0
-279,1.5,1.5,5.0,90 Kg bag,Yes,Dairy cows,Yes,Yes,Female,5,Primary,-0.195002333,34.61828109,90 kg bag,450.0,Yes,0.3,2080.0,Farmyard manure,2080.0,1,1,0,2080.0
-275,0.75,0.5197233120140727,7.0,90 Kg bag,Yes,Goats Other (specify),Yes,Yes,Male,10,Secondary,-0.172251663,34.49583984,90 kg bag,630.0,Yes,1.21,1250.0,Farmyard manure,1250.0,1,1,1,1250.0
-273,0.5,0.5,4.0,90 Kg bag,Yes,Goats,Yes,Yes,Male,5,Primary,-0.205393203,34.72524808,90 kg bag,360.0,Yes,0.72,400.0,Farmyard manure,400.0,1,1,0,400.0
-270,2.0,0.5,3.5,90 Kg bag,Yes,Goats Sheep,Yes,no,Male,3,Diploma,-0.170866029,34.70883279,90 kg bag,315.0,No,0.63,1250.0,,,0,1,3,1250.0
-269,1.25,1.0,18.0,90 Kg bag,Yes,Dairy cows,Yes,Yes,Male,4,Undergraduate degree,-0.127804905,34.85263887,90 kg bag,1620.0,Yes,1.62,1250.0,,,1,1,4,1250.0
-265,0.25,0.25,10.0,Gorogoro (2 kg tin),Yes,Calves Dairy cows,Yes,Yes,Male,3,Primary,0.032842509,34.93286669,gorogoro (2 kg tin),20.0,Yes,0.08,800.0,Compost,800.0,1,1,0,800.0
-262,3.0,2.0,2.0,90 Kg bag,Yes,Other (specify),Yes,No,Male,9,Secondary,0.104855307,34.70534818,90 kg bag,180.0,No,0.09,1250.0,,,0,1,1,1250.0
-256,7.0,5.0,26.0,90 Kg bag,Yes,Dairy cows Goats Sheep,Yes,No,Male,7,Undergraduate degree,0.106475818,34.60760927,90 kg bag,2340.0,No,0.47,3000.0,Farmyard manure,30000.0,0,1,4,3000.0
-255,5.0,2.0,14.0,90 Kg bag,Yes,Dairy cows Goats,Yes,Yes,Male,3,Secondary,-0.183927144,34.54825779,90 kg bag,1260.0,Yes,0.63,1250.0,,,1,1,1,1250.0
-249,4.0,1.0,8.0,90 Kg bag,Yes,Other (specify),Yes,Yes,Male,7,Secondary,-0.037268495,34.53218367,90 kg bag,720.0,Yes,0.72,1250.0,,,1,1,1,1250.0
-246,2.0,1.0,3.0,90 Kg bag,No,Not_Applicable,Yes,Yes,Male,6,Secondary,0.090610127,34.7841435,90 kg bag,270.0,Yes,0.27,1000.0,Compost,1000.0,1,0,1,1000.0
-244,5.0,3.0,20.0,90 Kg bag,Yes,Goats Sheep,Yes,NO,Male,5,Diploma,-0.32115655,34.78461833,90 kg bag,1800.0,No,0.6,720.0,Compost,720.0,0,1,3,720.0
-243,10.0,3.0,5.0,90 Kg bag,No,Not_Applicable,No,Yes,Male,20,Undergraduate degree,-0.089843069,34.5102146,90 kg bag,450.0,Yes,0.15,400.0,Compost,400.0,1,0,4,400.0
-242,2.0,2.0,8.0,90 Kg bag,Yes,Dairy cows Goats,No,Yes,Male,4,Diploma,-0.052508684,34.98784071,90 kg bag,720.0,Yes,0.36,2000.0,Farmyard manure,2000.0,1,1,3,2000.0
-241,3.0,2.078893248056291,15.0,90 Kg bag,Yes,Poultry,No,N,Male,6,Diploma,-0.214472083,34.99683326,90 kg bag,1350.0,No,0.65,4000.0,Compost,40000.0,0,1,3,4000.0
-227,1.0,0.25,2.0,90 Kg bag,Yes,Dairy cows Poultry,Yes,Yes,Male,7,Certificate,-0.082192989,34.93163403,90 kg bag,180.0,Yes,0.72,1250.0,,,1,1,2,1250.0
-224,2.0,1.0,3.0,90 Kg bag,Yes,Goats Poultry,No,Yes,Female,10,Undergraduate degree,-0.008425977,34.87177645,90 kg bag,270.0,Yes,0.27,4000.0,Farmyard manure,4000.0,1,1,4,4000.0
-222,2.5,2.0,8.0,90 Kg bag,Yes,Poultry Sheep,Yes,Yes,Male,5,Certificate,-0.252093701,34.8423839,90 kg bag,720.0,Yes,0.36,1250.0,,,1,1,2,1250.0
-204,8.0,5.0,3.0,90 Kg bag,Yes,Dairy cows Goats Pigs,No,No,Male,4,Undergraduate degree,-0.126688935,34.76840104,90 kg bag,270.0,No,0.05,4320.0,Poultry manure,4320.0,0,1,4,4320.0
-203,1.5,1.5,2.5,90 Kg bag,Yes,Goats Sheep,No,NO,Male,5,Secondary,-0.181928076,34.83898262,90 kg bag,225.0,No,0.15,1250.0,,,0,1,1,1250.0
-199,0.75,0.5,1.5,90 Kg bag,Yes,Dairy cows,Yes,No,Male,4,Diploma,0.040373366,34.95653417,90 kg bag,135.0,No,0.27,4800.0,"Farmyard manure, Farmyard manure","20000.0, 28000.0",0,1,3,4800.0
-195,2.5,2.0,24.0,90 Kg bag,Yes,Dairy cows,No,No,Male,6,Certificate,-0.019010805,34.85338992,90 kg bag,2160.0,No,1.08,2400.0,"Farmyard manure, Farmyard manure","800.0, 16000.0",0,1,2,2400.0
-188,3.0,2.0,4.0,90 Kg bag,No,Not_Applicable,No,Yes,Male,8,Certificate,-0.088795318,34.88520529,90 kg bag,360.0,Yes,0.18,800.0,Compost,800.0,1,0,2,800.0
-187,1.5,1.0,2.0,90 Kg bag,Yes,Goats Sheep,Yes,No,Male,6,Diploma,-0.176333753,34.77001581,90 kg bag,180.0,No,0.18,1250.0,,,0,1,3,1250.0
-181,1.5,1.5,4.0,90 Kg bag,Yes,Pigs Poultry,Yes,No,Male,8,Undergraduate degree,-0.116385273,34.88709406,90 kg bag,360.0,No,0.24,3660.0,Farmyard manure,3660.0,0,1,4,3660.0
-180,0.25,0.25,2.0,90 Kg bag,Yes,Beef cattle,Yes,Yes,Male,8,Secondary,0.042610229,34.57451189,90 kg bag,180.0,Yes,0.72,400.0,Farmyard manure,400.0,1,1,1,400.0
-179,2.0,1.5,3.0,90 Kg bag,Yes,Poultry,No,Yes,Male,5,Diploma,0.136566065,34.824634,90 kg bag,270.0,Yes,0.18,1250.0,,,1,1,3,1250.0
-176,1.0,1.0,2.0,90 Kg bag,Yes,Poultry,Yes,No,Female,8,Primary,-0.281799612,34.82170369,90 kg bag,180.0,No,0.18,2000.0,Farmyard manure,2000.0,0,1,0,2000.0
-175,2.0,1.0,5.0,90 Kg bag,Yes,Poultry,Yes,Yes,Male,2,Secondary,-0.05178009,34.59419681,90 kg bag,450.0,Yes,0.45,1250.0,,,1,1,1,1250.0
-174,1.0,0.75,1.5,90 Kg bag,Yes,Goats,Yes,Yes,Male,8,Primary,-0.005834313,34.84691676,90 kg bag,135.0,Yes,0.18,1250.0,,,1,1,0,1250.0
-172,0.75,0.5,2.5,50Kg bag,Yes,Other (specify),No,Yes,Male,15,Certificate,-0.186791699,34.72061205,50 kg bag,125.0,Yes,0.25,1700.0,"Compost, Farmyard manure","1600.0, 100.0",1,1,2,1700.0
-162,0.25,0.25,3.0,90 Kg bag,Yes,Beef cattle,Yes,Yes,Male,6,Undergraduate degree,-0.057208137,34.91623608,90 kg bag,270.0,Yes,1.08,1250.0,,,1,1,4,1250.0
-160,0.25,0.25,5.0,90 Kg bag,Yes,Poultry,No,no,Female,6,Secondary,0.039849199,34.90056484,90 kg bag,450.0,No,1.8,1250.0,,,0,1,1,1250.0
-156,0.25,0.25,2.0,90 Kg bag,No,Not_Applicable,Yes,Yes,Female,7,Primary,-0.100284707,34.62869468,90 kg bag,180.0,Yes,0.72,800.0,Compost,800.0,1,0,0,800.0
-155,5.0,3.5,5.0,90 Kg bag,Yes,Dairy cows,Yes,Yes,Male,1,Secondary,0.04009123,34.64405983,90 kg bag,450.0,Yes,0.13,3800.0,"Farmyard manure, Compost","30000.0, 800.0",1,1,1,3800.0
-154,2.0,1.0,20.0,90 Kg bag,Yes,Beef cattle,Yes,Yes,Female,7,Secondary,-0.192179634,34.84344851,90 kg bag,1800.0,Yes,1.8,1250.0,,,1,1,1,1250.0
-146,2.5,2.0,5.0,90 Kg bag,Yes,Beef cattle Poultry Sheep,Yes,No,Female,5,Primary,-0.200672249,34.58970385,90 kg bag,450.0,No,0.22,1250.0,,,0,1,0,1250.0
-139,0.5,0.5,10.0,90 Kg bag,Yes,Dairy cows Poultry,No,Yes,Male,3,Certificate,0.030672797,34.84415757,90 kg bag,900.0,Yes,1.8,1250.0,,,1,1,2,1250.0
-136,6.5,2.0,1.5,90 Kg bag,Yes,Poultry,No,Yes,Male,4,Primary,-0.26604624,34.89891344,90 kg bag,135.0,Yes,0.07,1250.0,,,1,1,0,1250.0
-134,1.0,1.0,2.5,90 Kg bag,Yes,Dairy cows Poultry,Yes,Yes,Male,8,Certificate,-0.128255618,34.91721229,90 kg bag,225.0,Yes,0.22,600.0,Farmyard manure,600.0,1,1,2,600.0
-131,0.25,0.1732411040046909,7.0,90 Kg bag,Yes,Goats Poultry,Yes,Yes,Male,5,Diploma,-0.039006495,34.60657595,90 kg bag,630.0,Yes,3.64,1250.0,,,1,1,3,1250.0
-127,1.75,1.75,8.0,90 Kg bag,Yes,Beef cattle,Yes,NO,Male,7,Secondary,-0.290834158,34.81675776,90 kg bag,720.0,No,0.41,1250.0,,,0,1,1,1250.0
-126,4.0,3.0,24.0,90 Kg bag,Yes,Other (specify),Yes,Yes,Male,8,Secondary,-0.016886468,34.53861378,90 kg bag,2160.0,Yes,0.72,1250.0,,,1,1,1,1250.0
-124,0.5,0.5,1.0,90 Kg bag,Yes,Dairy cows Goats,No,Yes,Male,14,Undergraduate degree,-0.054171848,34.63706783,90 kg bag,90.0,Yes,0.18,50.0,Compost,50.0,1,1,4,50.0
-119,5.0,3.0,5.0,90 Kg bag,Yes,Dairy cows Trained oxen for ploughing,Yes,NOO,Male,10,Diploma,-0.054973216,34.58771486,90 kg bag,450.0,No,0.15,800.0,Farmyard manure,800.0,0,1,3,800.0
-113,2.0,1.5,21.0,90 Kg bag,Yes,Poultry Sheep,No,Yes,Male,6,Certificate,-0.232882434,34.80544939,90 kg bag,1890.0,Yes,1.26,1250.0,,,1,1,2,1250.0
-108,3.0,2.0,32.0,Gorogoro (2 kg tin),Yes,Calves Sheep Other (specify),Yes,Yes,Male,6,Undergraduate degree,-0.096855959,34.54036023,gorogoro (2 kg tin),64.0,Yes,0.03,800.0,Compost,800.0,1,1,4,800.0
-104,0.5,0.5,8.0,90 Kg bag,Yes,Beef cattle Goats,Yes,Yes,Female,6,Diploma,-0.182954813,34.67033408,90 kg bag,720.0,Yes,1.44,800.0,Farmyard manure,800.0,1,1,3,800.0
-103,5.0,2.0,10.0,90 Kg bag,No,Not_Applicable,No,Yes,Male,3,Undergraduate degree,-0.165333484,34.51152427,90 kg bag,900.0,Yes,0.45,1250.0,,,1,0,4,1250.0
-101,1.0,1.0,4.0,90 Kg bag,Yes,Poultry,Yes,No,Male,7,Secondary,0.131511164,34.75509018,90 kg bag,360.0,No,0.36,1250.0,,,0,1,1,1250.0
-96,0.5,0.5,6.0,90 Kg bag,Yes,Poultry,No,Yes,Female,12,Primary,-0.322041806,34.78820747,90 kg bag,540.0,Yes,1.08,1250.0,,,1,1,0,1250.0
-95,1.0,0.5,3.0,90 Kg bag,No,Not_Applicable,Yes,No,Male,4,Secondary,-0.063100516,34.96231395,90 kg bag,270.0,No,0.54,1250.0,,,0,0,1,1250.0
-90,1.0,1.0,5.0,90 Kg bag,Yes,Dairy cows Sheep,No,No,Female,12,Primary,-0.223446317,34.86686969,90 kg bag,450.0,No,0.45,760.0,Farmyard manure,760.0,0,1,0,760.0
-86,0.25,0.25,4.0,90 Kg bag,Yes,Poultry,No,Yes,Male,4,Certificate,-0.252861924,34.62652248,90 kg bag,360.0,Yes,1.44,140.0,Poultry manure,140.0,1,1,2,140.0
-84,1.0,0.5,20.0,Gorogoro (2 kg tin),Yes,Calves Other (specify),Yes,Yes,Male,10,Diploma,-0.254365136,34.95639865,gorogoro (2 kg tin),40.0,Yes,0.08,3600.0,"Compost, Compost","2800.0, 800.0",1,1,3,3600.0
-82,2.0,2.0,3.0,90 Kg bag,Yes,Dairy cows Goats,Yes,Yes,Male,6,Secondary,0.055590841,34.88632528,90 kg bag,270.0,Yes,0.14,6480.0,Poultry manure,6480.0,1,1,1,6480.0
-80,0.5,0.5,3.0,90 Kg bag,Yes,Beef cattle,Yes,No,Male,6,Undergraduate degree,-0.09294521,35.00093971,90 kg bag,270.0,No,0.54,600.0,Farmyard manure,600.0,0,1,4,600.0
-77,0.25,0.25,3.0,90 Kg bag,No,Not_Applicable,No,No,Female,10,Primary,-0.177588925,34.6230655,90 kg bag,270.0,No,1.08,3200.0,"Farmyard manure, Compost","1200.0, 2000.0",0,0,0,3200.0
-75,0.5,0.25,2.0,90 Kg bag,Yes,Beef cattle,Yes,No,Male,6,Diploma,-0.301353919,34.86636898,90 kg bag,180.0,No,0.72,1250.0,,,0,1,3,1250.0
-71,1.25,1.0,30.0,Gorogoro (2 kg tin),Yes,Goats Poultry Rabbits Sheep,Yes,Yes,Female,3,Secondary,-0.069711754,34.61941668,gorogoro (2 kg tin),60.0,Yes,0.06,1250.0,,,1,1,1,1250.0
-70,0.75,0.5,1.0,50Kg bag,Yes,Poultry,No,Yes,Female,10,Primary,0.064065842,34.87930158,50 kg bag,50.0,Yes,0.1,2800.0,"Farmyard manure, Farmyard manure","2000.0, 800.0",1,1,0,2800.0
-56,1.0,0.5,1.5,50Kg bag,No,Not_Applicable,Yes,No,Male,4,Secondary,-0.275601977,34.82854403,50 kg bag,75.0,No,0.15,800.0,Compost,800.0,0,0,1,800.0
-48,5.5,5.0,17.0,90 Kg bag,Yes,Dairy cows Poultry,Yes,NOOO,Male,15,Diploma,0.036140092,34.74108224,90 kg bag,1530.0,No,0.31,1250.0,,,0,1,3,1250.0
-46,3.0,1.0,6.0,90 Kg bag,Yes,Dairy cows,No,Yes,Male,5,Diploma,0.056628871,34.62811495,90 kg bag,540.0,Yes,0.54,1250.0,,,1,1,3,1250.0
-44,1.0,1.0,3.0,90 Kg bag,Yes,Beef cattle Sheep,Yes,Yes,Female,7,Certificate,0.093142635,34.58565796,90 kg bag,270.0,Yes,0.27,4000.0,Farmyard manure,4000.0,1,1,2,4000.0
-38,1.25,1.0,1.0,90 Kg bag,Yes,Sheep,Yes,MO,Male,12,Diploma,0.013987011,34.98225066,90 kg bag,90.0,No,0.09,2800.0,"Farmyard manure, Compost","800.0, 2000.0",0,1,3,2800.0
-36,3.0,1.0,6.0,90 Kg bag,No,Not_Applicable,No,Yes,Male,10,Certificate,-0.00611703,34.85746196,90 kg bag,540.0,Yes,0.54,4000.0,Farmyard manure,4000.0,1,0,2,4000.0
-30,1.5,1.0,3.0,90 Kg bag,No,Not_Applicable,Yes,Yes,Male,4,Secondary,-0.190888017,34.62882919,90 kg bag,270.0,Yes,0.27,20.0,Farmyard manure,20.0,1,0,1,20.0
-29,1.25,0.75,5.0,90 Kg bag,No,Not_Applicable,No,Yes,Male,6,Secondary,-0.25222707,34.97685783,90 kg bag,450.0,Yes,0.6,1800.0,Farmyard manure,1800.0,1,0,1,1800.0
-27,1.0,0.75,15.0,50Kg bag,Yes,Sheep,No,no,Female,4,Secondary,-0.221028539,34.57736232,50 kg bag,750.0,No,1.0,3600.0,"Farmyard manure, Compost","1600.0, 2000.0",0,1,1,3600.0
-18,0.75,0.75,2.0,90 Kg bag,Yes,Poultry,Yes,Yes,Female,6,Secondary,-0.215306013,34.98999588,90 kg bag,180.0,Yes,0.24,1225.0,"Farmyard manure, Farmyard manure","625.0, 600.0",1,1,1,1225.0
-15,1.5,1.0,1.0,90 Kg bag,Yes,Goats Poultry,No,not,Female,4,Secondary,-0.032199601,34.92432222,90 kg bag,90.0,No,0.09,2400.0,Compost,2400.0,0,1,1,2400.0
-14,1.0,1.0,2.0,10Kg bag,Yes,Goats,No,n,Male,10,Diploma,-0.068036928,34.58580964,10 kg bag,20.0,No,0.02,2200.0,"Compost, Farmyard manure","200.0, 2000.0",0,1,3,2200.0
-8,0.75,0.25,2.0,90 Kg bag,Yes,Poultry,Yes,Yes,Male,8,Secondary,0.080368932,34.87556349,90 kg bag,180.0,Yes,0.72,790.0,"Compost, Compost","150.0, 640.0",1,1,1,790.0
-6,0.25,0.25,2.0,90 Kg bag,Yes,Poultry,Yes,Yes,Male,6,Primary,-0.206509275,34.7759734,90 kg bag,180.0,Yes,0.72,800.0,Farmyard manure,800.0,1,1,0,800.0
-5,2.0,2.0,11.0,90 Kg bag,Yes,Dairy cows Sheep,Yes,Yes,Male,5,Secondary,-0.307724224,34.73944322,90 kg bag,990.0,Yes,0.5,1250.0,,,1,1,1,1250.0
+hhid,land_total_acres,land_cultivated_acres,maize_harvest_qty,maize_unit,livestock_owned,livestock_types,usedom,climate_info_received,hh_head_gender,hh_size_total,hh_head_education,latitude,longitude,orgfert_quantity_2024,maize_harvest_qty_kg,climate_info_received_std,maize_yield_ton_acre,orgfert_qty_2024_kg_total,orgfert_names_2024,orgfert_qty_2024_kg,orgfert_qty_2024_kg_total_std,climate_info_received_num,livestock_owned_bin,hh_head_education_class
+409,2.5,0.5,1.5,90 Kg bag,Yes,Dairy cows Goats Poultry Sheep,Yes,Yes,Male,10,Primary,-0.152069274,34.957133,90 kg bag,135.0,Yes,0.27,,,,1250.0,1,1,0
+398,2.0,1.0,15.0,90 Kg bag,Yes,Dairy cows Goats,Yes,Yes,Male,8,Secondary,-0.065601887,34.60318356,90 kg bag,1350.0,Yes,1.35,600.0,Farmyard manure,600.0,600.0,1,1,1
+397,1.5,1.25,2.0,90 Kg bag,Yes,Poultry,No,Yes,Male,3,Diploma,-0.262379727,34.8561359,90 kg bag,180.0,Yes,0.14,600.0,Farmyard manure,600.0,600.0,1,1,3
+395,3.0,2.0,28.0,90 Kg bag,Yes,Dairy cows Goats Sheep,Yes,Yes,Male,5,Certificate,0.09371704,34.5776137,90 kg bag,2520.0,Yes,1.26,800.0,Farmyard manure,800.0,800.0,1,1,2
+389,0.25,0.25,5.0,90 Kg bag,Yes,Calves Dairy cows,No,Yes,Male,5,Certificate,0.072589516,34.68574717,90 kg bag,450.0,Yes,1.8,,,,1250.0,1,1,2
+382,1.5,1.5,3.0,90 Kg bag,Yes,Dairy cows Goats,No,No,Male,4,Secondary,0.142677371,34.82597436,90 kg bag,270.0,No,0.18,,,,1250.0,0,1,1
+370,1.0,0.5,2.0,90 Kg bag,Yes,Dairy cows Trained oxen for ploughing,Yes,Yes,Male,6,Postgraduate degree,-0.358320361,34.70890244,90 kg bag,180.0,Yes,0.36,2200.0,"Farmyard manure, Farmyard manure","1000.0, 1200.0",2200.0,1,1,5
+369,1.0,0.5,5.0,90 Kg bag,Yes,Poultry,Yes,Yes,Male,6,Secondary,0.062223944,34.62262696,90 kg bag,450.0,Yes,0.9,1600.0,Compost,1600.0,1600.0,1,1,1
+361,10.0,8.0,7.0,90 Kg bag,Yes,Dairy cows,No,Yes,Male,7,Certificate,-0.267779635,34.69932775,90 kg bag,630.0,Yes,0.08,,,,1250.0,1,1,2
+358,7.0,5.5,23.0,90 Kg bag,Yes,Dairy cows Goats,Yes,Yes,Male,9,Certificate,-0.203124244,34.78200404,90 kg bag,2070.0,Yes,0.38,,,,1250.0,1,1,2
+354,1.5,1.0394466240281457,7.0,90 Kg bag,Yes,Dairy cows Poultry,Yes,Yes,Male,7,Primary,0.149884354,34.68435028,90 kg bag,630.0,Yes,0.61,2200.0,"Compost, Compost","600.0, 1600.0",2200.0,1,1,0
+342,6.0,5.0,12.0,90 Kg bag,Yes,Goats Poultry,Yes,Yes,Male,8,Certificate,-0.245462757,34.79692649,90 kg bag,1080.0,Yes,0.22,600.0,Farmyard manure,600.0,600.0,1,1,2
+337,2.0,1.0,3.0,90 Kg bag,Yes,Poultry,Yes,Yes,Female,2,Secondary,-0.132296402,34.6945271,90 kg bag,270.0,Yes,0.27,6080.0,"Farmyard manure, Farmyard manure","2400.0, 3680.0",6080.0,1,1,1
+334,11.5,9.5,21.0,90 Kg bag,Yes,Goats,No,Yes,Male,7,Primary,-0.340004134,34.63855611,90 kg bag,1890.0,Yes,0.2,,,,1250.0,1,1,0
+332,0.5,0.3464822080093818,20.0,Gorogoro (2 kg tin),Yes,Poultry,Yes,Yes,Male,4,Undergraduate degree,0.080895103,34.89202085,gorogoro (2 kg tin),40.0,Yes,0.12,,,,1250.0,1,1,4
+326,0.5,0.4,2.0,90 Kg bag,Yes,Goats Sheep,No,Yes,Male,7,Primary,-0.020179315,34.69433233,90 kg bag,180.0,Yes,0.45,4800.0,Poultry manure,4800.0,4800.0,1,1,0
+319,1.5,1.0,5.5,90 Kg bag,Yes,Dairy cows,Yes,Yes,Female,6,Secondary,-0.097967967,34.95384857,90 kg bag,495.0,Yes,0.5,1200.0,Compost,1200.0,1200.0,1,1,1
+318,1.0,0.5,45.0,Kilograms,Yes,Poultry,No,Yes,Male,7,Secondary,0.152898928,34.822934,kilograms,45.0,Yes,0.09,,,,1250.0,1,1,1
+315,3.0,3.0,8.0,90 Kg bag,Yes,Beef cattle Poultry,Yes,No,Female,6,Secondary,-0.200536432,34.93616172,90 kg bag,720.0,No,0.24,50.0,Farmyard manure,50.0,50.0,0,1,1
+304,7.0,3.0,20.0,90 Kg bag,Yes,Dairy cows Goats Sheep,Yes,Yes,Male,8,Secondary,0.062643322,34.70584354,90 kg bag,1800.0,Yes,0.6,800.0,Farmyard manure,800.0,800.0,1,1,1
+303,1.0,0.5,7.0,90 Kg bag,No,Not_Applicable,No,Yes,Female,3,Certificate,0.064952645,34.61542226,90 kg bag,630.0,Yes,1.26,1600.0,Farmyard manure,1600.0,1600.0,1,0,2
+297,0.5,0.5,2.0,90 Kg bag,Yes,Poultry,No,No,Male,5,Secondary,-0.156871711,34.61150547,90 kg bag,180.0,No,0.36,960.0,Farmyard manure,960.0,960.0,0,1,1
+294,0.25,0.1732411040046909,2.5,90 Kg bag,Yes,Dairy cows,Yes,Yes,Male,7,Secondary,-0.198475046,34.63868439,90 kg bag,225.0,Yes,1.3,,,,1250.0,1,1,1
+280,1.5,1.5,7.0,90 Kg bag,Yes,Beef cattle Sheep,Yes,No,Male,15,Secondary,0.024195513,34.74962843,90 kg bag,630.0,No,0.42,,,,1250.0,0,1,1
+279,1.5,1.5,5.0,90 Kg bag,Yes,Dairy cows,Yes,Yes,Female,5,Primary,-0.195002333,34.61828109,90 kg bag,450.0,Yes,0.3,2080.0,Farmyard manure,2080.0,2080.0,1,1,0
+275,0.75,0.5197233120140727,7.0,90 Kg bag,Yes,Goats Other (specify),Yes,Yes,Male,10,Secondary,-0.172251663,34.49583984,90 kg bag,630.0,Yes,1.21,1250.0,Farmyard manure,1250.0,1250.0,1,1,1
+273,0.5,0.5,4.0,90 Kg bag,Yes,Goats,Yes,Yes,Male,5,Primary,-0.205393203,34.72524808,90 kg bag,360.0,Yes,0.72,400.0,Farmyard manure,400.0,400.0,1,1,0
+270,2.0,0.5,3.5,90 Kg bag,Yes,Goats Sheep,Yes,no,Male,3,Diploma,-0.170866029,34.70883279,90 kg bag,315.0,No,0.63,,,,1250.0,0,1,3
+269,1.25,1.0,18.0,90 Kg bag,Yes,Dairy cows,Yes,Yes,Male,4,Undergraduate degree,-0.127804905,34.85263887,90 kg bag,1620.0,Yes,1.62,,,,1250.0,1,1,4
+265,0.25,0.25,10.0,Gorogoro (2 kg tin),Yes,Calves Dairy cows,Yes,Yes,Male,3,Primary,0.032842509,34.93286669,gorogoro (2 kg tin),20.0,Yes,0.08,800.0,Compost,800.0,800.0,1,1,0
+262,3.0,2.0,2.0,90 Kg bag,Yes,Other (specify),Yes,No,Male,9,Secondary,0.104855307,34.70534818,90 kg bag,180.0,No,0.09,,,,1250.0,0,1,1
+256,7.0,5.0,26.0,90 Kg bag,Yes,Dairy cows Goats Sheep,Yes,No,Male,7,Undergraduate degree,0.106475818,34.60760927,90 kg bag,2340.0,No,0.47,3000.0,Farmyard manure,30000.0,3000.0,0,1,4
+255,5.0,2.0,14.0,90 Kg bag,Yes,Dairy cows Goats,Yes,Yes,Male,3,Secondary,-0.183927144,34.54825779,90 kg bag,1260.0,Yes,0.63,,,,1250.0,1,1,1
+249,4.0,1.0,8.0,90 Kg bag,Yes,Other (specify),Yes,Yes,Male,7,Secondary,-0.037268495,34.53218367,90 kg bag,720.0,Yes,0.72,,,,1250.0,1,1,1
+246,2.0,1.0,3.0,90 Kg bag,No,Not_Applicable,Yes,Yes,Male,6,Secondary,0.090610127,34.7841435,90 kg bag,270.0,Yes,0.27,1000.0,Compost,1000.0,1000.0,1,0,1
+244,5.0,3.0,20.0,90 Kg bag,Yes,Goats Sheep,Yes,NO,Male,5,Diploma,-0.32115655,34.78461833,90 kg bag,1800.0,No,0.6,720.0,Compost,720.0,720.0,0,1,3
+243,10.0,3.0,5.0,90 Kg bag,No,Not_Applicable,No,Yes,Male,20,Undergraduate degree,-0.089843069,34.5102146,90 kg bag,450.0,Yes,0.15,400.0,Compost,400.0,400.0,1,0,4
+242,2.0,2.0,8.0,90 Kg bag,Yes,Dairy cows Goats,No,Yes,Male,4,Diploma,-0.052508684,34.98784071,90 kg bag,720.0,Yes,0.36,2000.0,Farmyard manure,2000.0,2000.0,1,1,3
+241,3.0,2.078893248056291,15.0,90 Kg bag,Yes,Poultry,No,N,Male,6,Diploma,-0.214472083,34.99683326,90 kg bag,1350.0,No,0.65,4000.0,Compost,40000.0,4000.0,0,1,3
+227,1.0,0.25,2.0,90 Kg bag,Yes,Dairy cows Poultry,Yes,Yes,Male,7,Certificate,-0.082192989,34.93163403,90 kg bag,180.0,Yes,0.72,,,,1250.0,1,1,2
+224,2.0,1.0,3.0,90 Kg bag,Yes,Goats Poultry,No,Yes,Female,10,Undergraduate degree,-0.008425977,34.87177645,90 kg bag,270.0,Yes,0.27,4000.0,Farmyard manure,4000.0,4000.0,1,1,4
+222,2.5,2.0,8.0,90 Kg bag,Yes,Poultry Sheep,Yes,Yes,Male,5,Certificate,-0.252093701,34.8423839,90 kg bag,720.0,Yes,0.36,,,,1250.0,1,1,2
+204,8.0,5.0,3.0,90 Kg bag,Yes,Dairy cows Goats Pigs,No,No,Male,4,Undergraduate degree,-0.126688935,34.76840104,90 kg bag,270.0,No,0.05,4320.0,Poultry manure,4320.0,4320.0,0,1,4
+203,1.5,1.5,2.5,90 Kg bag,Yes,Goats Sheep,No,NO,Male,5,Secondary,-0.181928076,34.83898262,90 kg bag,225.0,No,0.15,,,,1250.0,0,1,1
+199,0.75,0.5,1.5,90 Kg bag,Yes,Dairy cows,Yes,No,Male,4,Diploma,0.040373366,34.95653417,90 kg bag,135.0,No,0.27,4800.0,"Farmyard manure, Farmyard manure","20000.0, 28000.0",4800.0,0,1,3
+195,2.5,2.0,24.0,90 Kg bag,Yes,Dairy cows,No,No,Male,6,Certificate,-0.019010805,34.85338992,90 kg bag,2160.0,No,1.08,2400.0,"Farmyard manure, Farmyard manure","800.0, 16000.0",2400.0,0,1,2
+188,3.0,2.0,4.0,90 Kg bag,No,Not_Applicable,No,Yes,Male,8,Certificate,-0.088795318,34.88520529,90 kg bag,360.0,Yes,0.18,800.0,Compost,800.0,800.0,1,0,2
+187,1.5,1.0,2.0,90 Kg bag,Yes,Goats Sheep,Yes,No,Male,6,Diploma,-0.176333753,34.77001581,90 kg bag,180.0,No,0.18,,,,1250.0,0,1,3
+181,1.5,1.5,4.0,90 Kg bag,Yes,Pigs Poultry,Yes,No,Male,8,Undergraduate degree,-0.116385273,34.88709406,90 kg bag,360.0,No,0.24,3660.0,Farmyard manure,3660.0,3660.0,0,1,4
+180,0.25,0.25,2.0,90 Kg bag,Yes,Beef cattle,Yes,Yes,Male,8,Secondary,0.042610229,34.57451189,90 kg bag,180.0,Yes,0.72,400.0,Farmyard manure,400.0,400.0,1,1,1
+179,2.0,1.5,3.0,90 Kg bag,Yes,Poultry,No,Yes,Male,5,Diploma,0.136566065,34.824634,90 kg bag,270.0,Yes,0.18,,,,1250.0,1,1,3
+176,1.0,1.0,2.0,90 Kg bag,Yes,Poultry,Yes,No,Female,8,Primary,-0.281799612,34.82170369,90 kg bag,180.0,No,0.18,2000.0,Farmyard manure,2000.0,2000.0,0,1,0
+175,2.0,1.0,5.0,90 Kg bag,Yes,Poultry,Yes,Yes,Male,2,Secondary,-0.05178009,34.59419681,90 kg bag,450.0,Yes,0.45,,,,1250.0,1,1,1
+174,1.0,0.75,1.5,90 Kg bag,Yes,Goats,Yes,Yes,Male,8,Primary,-0.005834313,34.84691676,90 kg bag,135.0,Yes,0.18,,,,1250.0,1,1,0
+172,0.75,0.5,2.5,50Kg bag,Yes,Other (specify),No,Yes,Male,15,Certificate,-0.186791699,34.72061205,50 kg bag,125.0,Yes,0.25,1700.0,"Compost, Farmyard manure","1600.0, 100.0",1700.0,1,1,2
+162,0.25,0.25,3.0,90 Kg bag,Yes,Beef cattle,Yes,Yes,Male,6,Undergraduate degree,-0.057208137,34.91623608,90 kg bag,270.0,Yes,1.08,,,,1250.0,1,1,4
+160,0.25,0.25,5.0,90 Kg bag,Yes,Poultry,No,no,Female,6,Secondary,0.039849199,34.90056484,90 kg bag,450.0,No,1.8,,,,1250.0,0,1,1
+156,0.25,0.25,2.0,90 Kg bag,No,Not_Applicable,Yes,Yes,Female,7,Primary,-0.100284707,34.62869468,90 kg bag,180.0,Yes,0.72,800.0,Compost,800.0,800.0,1,0,0
+155,5.0,3.5,5.0,90 Kg bag,Yes,Dairy cows,Yes,Yes,Male,1,Secondary,0.04009123,34.64405983,90 kg bag,450.0,Yes,0.13,3800.0,"Farmyard manure, Compost","30000.0, 800.0",3800.0,1,1,1
+154,2.0,1.0,20.0,90 Kg bag,Yes,Beef cattle,Yes,Yes,Female,7,Secondary,-0.192179634,34.84344851,90 kg bag,1800.0,Yes,1.8,,,,1250.0,1,1,1
+146,2.5,2.0,5.0,90 Kg bag,Yes,Beef cattle Poultry Sheep,Yes,No,Female,5,Primary,-0.200672249,34.58970385,90 kg bag,450.0,No,0.22,,,,1250.0,0,1,0
+139,0.5,0.5,10.0,90 Kg bag,Yes,Dairy cows Poultry,No,Yes,Male,3,Certificate,0.030672797,34.84415757,90 kg bag,900.0,Yes,1.8,,,,1250.0,1,1,2
+136,6.5,2.0,1.5,90 Kg bag,Yes,Poultry,No,Yes,Male,4,Primary,-0.26604624,34.89891344,90 kg bag,135.0,Yes,0.07,,,,1250.0,1,1,0
+134,1.0,1.0,2.5,90 Kg bag,Yes,Dairy cows Poultry,Yes,Yes,Male,8,Certificate,-0.128255618,34.91721229,90 kg bag,225.0,Yes,0.22,600.0,Farmyard manure,600.0,600.0,1,1,2
+131,0.25,0.1732411040046909,7.0,90 Kg bag,Yes,Goats Poultry,Yes,Yes,Male,5,Diploma,-0.039006495,34.60657595,90 kg bag,630.0,Yes,0.36,,,,1250.0,1,1,3
+127,1.75,1.75,8.0,90 Kg bag,Yes,Beef cattle,Yes,NO,Male,7,Secondary,-0.290834158,34.81675776,90 kg bag,720.0,No,0.41,,,,1250.0,0,1,1
+126,4.0,3.0,24.0,90 Kg bag,Yes,Other (specify),Yes,Yes,Male,8,Secondary,-0.016886468,34.53861378,90 kg bag,2160.0,Yes,0.72,,,,1250.0,1,1,1
+124,0.5,0.5,1.0,90 Kg bag,Yes,Dairy cows Goats,No,Yes,Male,14,Undergraduate degree,-0.054171848,34.63706783,90 kg bag,90.0,Yes,0.18,50.0,Compost,50.0,50.0,1,1,4
+119,5.0,3.0,5.0,90 Kg bag,Yes,Dairy cows Trained oxen for ploughing,Yes,NOO,Male,10,Diploma,-0.054973216,34.58771486,90 kg bag,450.0,No,0.15,800.0,Farmyard manure,800.0,800.0,0,1,3
+113,2.0,1.5,21.0,90 Kg bag,Yes,Poultry Sheep,No,Yes,Male,6,Certificate,-0.232882434,34.80544939,90 kg bag,1890.0,Yes,1.26,,,,1250.0,1,1,2
+108,3.0,2.0,32.0,Gorogoro (2 kg tin),Yes,Calves Sheep Other (specify),Yes,Yes,Male,6,Undergraduate degree,-0.096855959,34.54036023,gorogoro (2 kg tin),64.0,Yes,0.03,800.0,Compost,800.0,800.0,1,1,4
+104,0.5,0.5,8.0,90 Kg bag,Yes,Beef cattle Goats,Yes,Yes,Female,6,Diploma,-0.182954813,34.67033408,90 kg bag,720.0,Yes,1.44,800.0,Farmyard manure,800.0,800.0,1,1,3
+103,5.0,2.0,10.0,90 Kg bag,No,Not_Applicable,No,Yes,Male,3,Undergraduate degree,-0.165333484,34.51152427,90 kg bag,900.0,Yes,0.45,,,,1250.0,1,0,4
+101,1.0,1.0,4.0,90 Kg bag,Yes,Poultry,Yes,No,Male,7,Secondary,0.131511164,34.75509018,90 kg bag,360.0,No,0.36,,,,1250.0,0,1,1
+96,0.5,0.5,6.0,90 Kg bag,Yes,Poultry,No,Yes,Female,12,Primary,-0.322041806,34.78820747,90 kg bag,540.0,Yes,1.08,,,,1250.0,1,1,0
+95,1.0,0.5,3.0,90 Kg bag,No,Not_Applicable,Yes,No,Male,4,Secondary,-0.063100516,34.96231395,90 kg bag,270.0,No,0.54,,,,1250.0,0,0,1
+90,1.0,1.0,5.0,90 Kg bag,Yes,Dairy cows Sheep,No,No,Female,12,Primary,-0.223446317,34.86686969,90 kg bag,450.0,No,0.45,760.0,Farmyard manure,760.0,760.0,0,1,0
+86,0.25,0.25,4.0,90 Kg bag,Yes,Poultry,No,Yes,Male,4,Certificate,-0.252861924,34.62652248,90 kg bag,360.0,Yes,1.44,140.0,Poultry manure,140.0,140.0,1,1,2
+84,1.0,0.5,20.0,Gorogoro (2 kg tin),Yes,Calves Other (specify),Yes,Yes,Male,10,Diploma,-0.254365136,34.95639865,gorogoro (2 kg tin),40.0,Yes,0.08,3600.0,"Compost, Compost","2800.0, 800.0",3600.0,1,1,3
+82,2.0,2.0,3.0,90 Kg bag,Yes,Dairy cows Goats,Yes,Yes,Male,6,Secondary,0.055590841,34.88632528,90 kg bag,270.0,Yes,0.14,6480.0,Poultry manure,6480.0,6480.0,1,1,1
+80,0.5,0.5,3.0,90 Kg bag,Yes,Beef cattle,Yes,No,Male,6,Undergraduate degree,-0.09294521,35.00093971,90 kg bag,270.0,No,0.54,600.0,Farmyard manure,600.0,600.0,0,1,4
+77,0.25,0.25,3.0,90 Kg bag,No,Not_Applicable,No,No,Female,10,Primary,-0.177588925,34.6230655,90 kg bag,270.0,No,1.08,3200.0,"Farmyard manure, Compost","1200.0, 2000.0",3200.0,0,0,0
+75,0.5,0.25,2.0,90 Kg bag,Yes,Beef cattle,Yes,No,Male,6,Diploma,-0.301353919,34.86636898,90 kg bag,180.0,No,0.72,,,,1250.0,0,1,3
+71,1.25,1.0,30.0,Gorogoro (2 kg tin),Yes,Goats Poultry Rabbits Sheep,Yes,Yes,Female,3,Secondary,-0.069711754,34.61941668,gorogoro (2 kg tin),60.0,Yes,0.06,,,,1250.0,1,1,1
+70,0.75,0.5,1.0,50Kg bag,Yes,Poultry,No,Yes,Female,10,Primary,0.064065842,34.87930158,50 kg bag,50.0,Yes,0.1,2800.0,"Farmyard manure, Farmyard manure","2000.0, 800.0",2800.0,1,1,0
+56,1.0,0.5,1.5,50Kg bag,No,Not_Applicable,Yes,No,Male,4,Secondary,-0.275601977,34.82854403,50 kg bag,75.0,No,0.15,800.0,Compost,800.0,800.0,0,0,1
+48,5.5,5.0,17.0,90 Kg bag,Yes,Dairy cows Poultry,Yes,NOOO,Male,15,Diploma,0.036140092,34.74108224,90 kg bag,1530.0,No,0.31,,,,1250.0,0,1,3
+46,3.0,1.0,6.0,90 Kg bag,Yes,Dairy cows,No,Yes,Male,5,Diploma,0.056628871,34.62811495,90 kg bag,540.0,Yes,0.54,,,,1250.0,1,1,3
+44,1.0,1.0,3.0,90 Kg bag,Yes,Beef cattle Sheep,Yes,Yes,Female,7,Certificate,0.093142635,34.58565796,90 kg bag,270.0,Yes,0.27,4000.0,Farmyard manure,4000.0,4000.0,1,1,2
+38,1.25,1.0,1.0,90 Kg bag,Yes,Sheep,Yes,MO,Male,12,Diploma,0.013987011,34.98225066,90 kg bag,90.0,No,0.09,2800.0,"Farmyard manure, Compost","800.0, 2000.0",2800.0,0,1,3
+36,3.0,1.0,6.0,90 Kg bag,No,Not_Applicable,No,Yes,Male,10,Certificate,-0.00611703,34.85746196,90 kg bag,540.0,Yes,0.54,4000.0,Farmyard manure,4000.0,4000.0,1,0,2
+30,1.5,1.0,3.0,90 Kg bag,No,Not_Applicable,Yes,Yes,Male,4,Secondary,-0.190888017,34.62882919,90 kg bag,270.0,Yes,0.27,20.0,Farmyard manure,20.0,20.0,1,0,1
+29,1.25,0.75,5.0,90 Kg bag,No,Not_Applicable,No,Yes,Male,6,Secondary,-0.25222707,34.97685783,90 kg bag,450.0,Yes,0.6,1800.0,Farmyard manure,1800.0,1800.0,1,0,1
+27,1.0,0.75,15.0,50Kg bag,Yes,Sheep,No,no,Female,4,Secondary,-0.221028539,34.57736232,50 kg bag,750.0,No,1.0,3600.0,"Farmyard manure, Compost","1600.0, 2000.0",3600.0,0,1,1
+18,0.75,0.75,2.0,90 Kg bag,Yes,Poultry,Yes,Yes,Female,6,Secondary,-0.215306013,34.98999588,90 kg bag,180.0,Yes,0.24,1225.0,"Farmyard manure, Farmyard manure","625.0, 600.0",1225.0,1,1,1
+15,1.5,1.0,1.0,90 Kg bag,Yes,Goats Poultry,No,not,Female,4,Secondary,-0.032199601,34.92432222,90 kg bag,90.0,No,0.09,2400.0,Compost,2400.0,2400.0,0,1,1
+14,1.0,1.0,2.0,10Kg bag,Yes,Goats,No,n,Male,10,Diploma,-0.068036928,34.58580964,10 kg bag,20.0,No,0.02,2200.0,"Compost, Farmyard manure","200.0, 2000.0",2200.0,0,1,3
+8,0.75,0.25,2.0,90 Kg bag,Yes,Poultry,Yes,Yes,Male,8,Secondary,0.080368932,34.87556349,90 kg bag,180.0,Yes,0.72,790.0,"Compost, Compost","150.0, 640.0",790.0,1,1,1
+6,0.25,0.25,2.0,90 Kg bag,Yes,Poultry,Yes,Yes,Male,6,Primary,-0.206509275,34.7759734,90 kg bag,180.0,Yes,0.72,800.0,Farmyard manure,800.0,800.0,1,1,0
+5,2.0,2.0,11.0,90 Kg bag,Yes,Dairy cows Sheep,Yes,Yes,Male,5,Secondary,-0.307724224,34.73944322,90 kg bag,990.0,Yes,0.5,,,,1250.0,1,1,1

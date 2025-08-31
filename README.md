@@ -19,8 +19,16 @@ This folder contains all the data used in the project:
 - **Spatial files (`Data/spatial/`)**: Geospatial datasets generated or used during the analysis.
 
 ---
+### 2. `Environment/`
 
-### 2. `Jupyter-notebooks/`
+A yml environment file to easily replicate the working environment.
+
+```bash
+conda env create -f ../Environment/environment.yml
+```
+---
+
+### 3. `Jupyter-notebooks/`
 A series of sequential notebooks to explore, enrich, model, and visualize the data:
 
 1. **`1_descriptive_stats_main.ipynb`** – Explore and summarize the main dataset.  
@@ -36,6 +44,8 @@ A series of sequential notebooks to explore, enrich, model, and visualize the da
 
 ## 🔍 Project Workflow
 
+
+0. **Create the environment and clone the project** - Get ready to start the analysis.
 1. **Load and clean data** – Start by inspecting the raw survey data.  
 2. **Explore descriptive statistics** – Understand distributions, correlations, and key trends in each dataset. Clean each dataset iterativelly.  
 3. **Merge datasets** – Combine the survey cleaned datasets for integrated analysis.  
